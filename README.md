@@ -1,4 +1,4 @@
-# sentimentanalysis
+# Sentiment Analysis for qualitative research
 I'm exploring sentiment analysis and machine learning techniques using NLP to analyze interview data that I have obtained for one of my projects, UTC2409 Understanding Communities.
 
 None of the data in this repository is real. Dummy data is used to protect the confidentiality of the interviewees.
@@ -18,4 +18,9 @@ Topic Modelling, OpenVec
 Guetterman, T. C., Chang, T., DeJonckheere, M., Basu, T., Scruggs, E., & Vydiswaran, V. G. V. (2018). Augmenting Qualitative Text Analysis with Natural Language Processing: Methodological Study. Journal of medical Internet research, 20(6), e231. https://doi.org/10.2196/jmir.9702
 
 **-> NLP can potentially miss nuances in the responses. It can however be used to find relevant major themes.**
+
+# Current solutions
+## QRMine
+QRMine is a suite of QR datamining tools in Python using NLP and ML. Using QRMine, I explored and conducted analysis in the following manner:
+-- Work in progress--
 
